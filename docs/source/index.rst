@@ -12,7 +12,7 @@ Welcome to TestProGit's documentation!
 
 
 
-Indices and tables 105
+Indices and tables 106
 ==================
 
 * :ref:`genindex`
